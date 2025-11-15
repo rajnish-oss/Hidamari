@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "apis": [
+    {
+      "identifier": "phantombuster",
+      "source": "@phantombuster/v1#5gh16gmhj80580",
+      "integrity": "sha512-xB0WY06//HUpHK5VLCiE0250zwMHs3+T2AWBo4ZGjjiUBzOwysk7RQH+vFAStMhEKDYmpAYb8GzjXaDuUO3jdA==",
+      "installerVersion": "6.1.3"
+    }
+  ]
+}
