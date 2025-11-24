@@ -10,13 +10,12 @@
   },
   "dependencies": {
     "@api/phantombuster": "file:.api/apis/phantombuster",
+    "@clerk/nextjs": "^6.35.4",
     "api": "^6.1.3",
     "axios": "^1.13.2",
     "es5-ext": "^0.10.64",
-    "linkedin-profile-scraper": "^2.3.1",
     "next": "16.0.1",
     "oas": "^20.11.0",
-    "puppeteer": "^24.30.0",
     "puppeteer-core": "^24.30.0",
     "react": "19.2.0",
     "react-dom": "19.2.0"
